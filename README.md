@@ -1,4 +1,4 @@
-# Welcome to My Code Repository
+# Welcome to DSA Repository
 
 ## Purpose
 
